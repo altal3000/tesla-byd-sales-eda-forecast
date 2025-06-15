@@ -4,7 +4,7 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ### 1. Exploratory Data Analysis (EDA)
 - Cleaning and merging quarterly and yearly **sales**, exploring gloabal EV adoption trends, and stock market data.
@@ -22,10 +22,10 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 ### 3. Tableau Dashboards
 - Key insights visualized in an interactive Tableau dashboards 
 - [View Dashboard on Tableau Public](https://public.tableau.com/views/Tesla_BYD_sales/Sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard Preview 1](Tesla_BYD_Tableau_Preview_1)  
-![Dashboard Preview 2](Tesla_BYD_Tableau_Preview_2)
-![Dashboard Preview 3](Tesla_BYD_Tableau_Preview_3)  
-![Dashboard Preview 4](Tesla_BYD_Tableau_Preview_4)
+[Dashboard Preview 1](Tesla_BYD_Tableau_Preview_1)  
+[Dashboard Preview 2](Tesla_BYD_Tableau_Preview_2)
+[Dashboard Preview 3](Tesla_BYD_Tableau_Preview_3)  
+[Dashboard Preview 4](Tesla_BYD_Tableau_Preview_4)
 
 ---
 
@@ -34,8 +34,8 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 **Sales Data**:
 - Manufacturer reports obtained from Wikipedia ([Tesla](https://en.wikipedia.org/wiki/History_of_Tesla,_Inc.), [BYD](https://en.wikipedia.org/wiki/BYD_Auto)
 - BYD report for Q1 2025 collected manually from https://www.bydglobal.com/en/InvestorNotice.html
-**Global EV Sales and Adoption Data**: [Global EV Outlook](https://www.iea.org/reports/global-ev-outlook-2025) 2025 by International Energy Agency (IEA)
-**Stock Data**: `yfinance` API – daily Tesla & BYD prices (TSLA and BYDDYY)
+- **Global EV Sales and Adoption Data**: [Global EV Outlook](https://www.iea.org/reports/global-ev-outlook-2025) 2025 by International Energy Agency (IEA)
+- **Stock Data**: `yfinance` API – daily Tesla & BYD prices (TSLA and BYDDYY)
 
 *All data used is public and non-commercial, intended strictly for educational purposes.*
 
