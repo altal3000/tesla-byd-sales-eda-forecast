@@ -9,7 +9,7 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 ### 1. Exploratory Data Analysis (EDA)
 - Cleaning and merging quarterly and yearly **sales**, exploring gloabal EV adoption trends, and stock market data.
 - Visualization of sales by brand, powertrain transition, EV adoption, market performance
-- [Notebook: `Telsa_BYD_EDA.ipynb`](Telsa_BYD_EDA.ipynb)
+- [Telsa_BYD_EDA.ipynb](Telsa_BYD_EDA.ipynb)
 
 ### 2. Predictive Modelling (Prophet)
 - Forecasts based on:
@@ -17,7 +17,7 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
   2. Tuned model
   3. **External regressor**: lagged stock returns
 - Evaluation using RMSE, MAE, MAPE, R2
-- [Notebook: `Tesla_BYD_ML.ipynb`](Tesla_BYD_ML.ipynb)
+- [Tesla_BYD_ML.ipynb](Tesla_BYD_ML.ipynb)
 
 ### 3. Tableau Dashboards
 - Key insights visualized in an interactive Tableau dashboards 
