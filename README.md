@@ -34,13 +34,13 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 
 **Sales Data**:
 - Manufacturer reports via Wikipedia: [Tesla](https://en.wikipedia.org/wiki/History_of_Tesla,_Inc.), [BYD](https://en.wikipedia.org/wiki/BYD_Auto)  
-- Q1 2025 BYD sales from [BYD Global Investor Notices](https://www.bydglobal.com/en/InvestorNotice.html)
+- Q1 2025 BYD sales from [BYD Global Investor Notices](https://www.bydglobal.com/en/InvestorNotice.html) (aggregated from monthly announcements)
 
 **EV Adoption**:
 - [Global EV Outlook 2025](https://www.iea.org/reports/global-ev-outlook-2025), International Energy Agency (IEA)
 
 **Stock Market Data**:
-- `yfinance` API for daily stock prices of TSLA and BYDDY/DF
+- `yfinance` API for daily stock prices of TSLA and BYDDY
 
 *All data is public and used solely for educational, non-commercial purposes.*
 
