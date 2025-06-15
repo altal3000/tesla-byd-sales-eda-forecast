@@ -15,17 +15,17 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 - Forecasts based on:
   1. Basic quarterly sales
   2. Tuned model
-  3. **External regressor**: lagged stock returns
+  3. Model with added external regressor: quarterly lagged stock returns
 - Evaluation using RMSE, MAE, MAPE, R2
 - [Tesla_BYD_ML.ipynb](Tesla_BYD_ML.ipynb)
 
 ### 3. Tableau Dashboards
 - Key insights visualized in an interactive Tableau dashboards 
 - [View Dashboard on Tableau Public](https://public.tableau.com/views/Tesla_BYD_sales/Sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard Preview 1](tesla_byd_dashboard_1.png)  
-![Dashboard Preview 2](tesla_byd_dashboard_2.png)
-![Dashboard Preview 3](tesla_byd_dashboard_1.png)  
-![Dashboard Preview 4](tesla_byd_dashboard_2.png)
+![Dashboard Preview 1](Tesla_BYD_Tableau_Preview_1)  
+![Dashboard Preview 2](Tesla_BYD_Tableau_Preview_2)
+![Dashboard Preview 3](Tesla_BYD_Tableau_Preview_3)  
+![Dashboard Preview 4](Tesla_BYD_Tableau_Preview_4)
 
 ---
 
@@ -43,7 +43,7 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 
 ## Tools & Technologies
 
-- Python (Pandas, Seaborn, Scikit-learn, Prophet)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Prophet)
 - yfinance for financial data
 - Tableau Public for dashboarding
 - Jupyter Notebooks
