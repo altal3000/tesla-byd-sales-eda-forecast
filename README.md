@@ -25,8 +25,8 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 
 ![Dashboard Preview 1](Tesla_BYD_Tableau_Preview_1.png)  
 ![Dashboard Preview 2](Tesla_BYD_Tableau_Preview_2.png)  
-![Dashboard Preview 3](Tesla_BYD_Tableau_Preview_3)  
-![Dashboard Preview 4](Tesla_BYD_Tableau_Preview_4)
+![Dashboard Preview 3](Tesla_BYD_Tableau_Preview_3.png)  
+![Dashboard Preview 4](Tesla_BYD_Tableau_Preview_4.png)
 
 ---
 
