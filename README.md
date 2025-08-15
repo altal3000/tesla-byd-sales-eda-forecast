@@ -23,10 +23,10 @@ This project compares the battery electric vehicle (BEV) sales of **Tesla** and 
 - Interactive dashboards highlighting key trends and model insights  
 - [View Dashboard on Tableau Public](https://public.tableau.com/views/Tesla_BYD_sales/Sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Preview 1](Tesla_BYD_Tableau_Preview_1.png)  
-![Dashboard Preview 2](Tesla_BYD_Tableau_Preview_2.png)  
-![Dashboard Preview 3](Tesla_BYD_Tableau_Preview_3.png)  
-![Dashboard Preview 4](Tesla_BYD_Tableau_Preview_4.png)
+![Dashboard Preview 1](Tesla_BYD_Tableau_Preview_1.png  
+![Dashboard Preview 2](Tesla_BYD_Tableau_Preview_2.png  
+![Dashboard Preview 3](Tesla_BYD_Tableau_Preview_3.png  
+![Dashboard Preview 4](Tesla_BYD_Tableau_Preview_4.png
 
 ---
 
